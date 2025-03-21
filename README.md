@@ -35,7 +35,7 @@ design - building the framework.
 
 coding - converting software design into tangible code.
 
- testing - examine the software for any bugs and glitches
+testing - examine the software for any bugs and glitches
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
