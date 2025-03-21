@@ -12,14 +12,14 @@ reliability- it ensures software performs as expected without bias especially fo
 
 efficiency - it helps to optimize developer workflow while maintaining high quality standards.
 
- scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
+scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
 
- security - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering.
+security - implement protection practice like authentication, authorization and encryption to secure users information.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-mastering complexity
+Mastering complexity
 
 Mastering process
 
@@ -29,7 +29,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 planning - identify the software requirement or purpose and scope.
 
- requirement analysis - identify the final user specification.
+requirement analysis - identify the final user specification.
 
 design - building the framework.
 
@@ -44,7 +44,7 @@ waterfall methodology - Linear and sequential, each phase is completed before mo
 
 - there is Low flexibility,
 
- changes are hard to incorporate once a phase is complete.
+- changes are hard to incorporate once a phase is complete.
 
  - Customer feedback comes late, after the product is developed.
 
@@ -96,11 +96,16 @@ An integrated development environment (IDE) is a software platform that facilita
 importance:
 
 Programming languages have rules for how statements must be structured. Because an IDE knows these rules, it contains many intelligent features for automatically writing or editing the source code.
+
 An IDE can format the written text by automatically making some words bold or italic, or by using different font colors. These visual cues make the source code more readable and give instant feedback about accidental syntax errors.
 an IDE can make suggestions to complete a code statement when the developer begins typing.
+
 IDEs increase programmer productivity by performing repeatable development tasks that are typically part of every code change. The following are some examples of regular coding tasks that an IDE carries out.
+
 An IDE compiles or converts the code into a simplified language that the operating system can understand. - Some programming languages implement just-in-time compiling, in which the IDE converts human-readable code into machine code from within the application.
+
 The IDE allows developers to automate unit tests locally before the software is integrated with other developers' code and more complex integration tests are run.
+
 Debugging IDE enables a step through the code, line by line, as it runs and inspect code behavior. IDEs also integrate several debugging tools that highlight bugs caused by human error in real time, even as the developer is typing.
 
 Version Control Systems (VCS) - are software tools that help software teams manage changes to source code over time. eg Git
@@ -132,15 +137,15 @@ Time Constraints - Software engineering is a demanding and time-intensive field,
 
 Changing Software Requirements - Software requirements are often dynamic and subject to frequent changes, making it challenging for engineers to design and develop solutions that meet users' needs while accounting for future updates and bug fixes.
 
-Solution: engineers can adopt approaches like agile development, which emphasizes iterative progress and adaptability, and modular design, which enables flexibility by breaking systems into manageable, independent components.
+ Solution: engineers can adopt approaches like agile development, which emphasizes iterative progress and adaptability, and modular design, which enables flexibility by breaking systems into manageable, independent components.
 
 Software Security - Programming secure software is a complex and challenging task.
 
-Solution: research ways to defend against hacking, malware, phishing, insider and third-party threats
+ Solution: research ways to defend against hacking, malware, phishing, insider and third-party threats
 
 Software Accessibility and Usability - Overly complex software can frustrate or confuse users.
 
-Solution: Use scalable architecture, Emphasize reliability.
+ Solution: Use scalable architecture, Emphasize reliability.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
@@ -172,7 +177,7 @@ Improved user experience - Prompt engineering makes it easy for users to obtain 
 
 Increased flexibility - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
 
-developer control - Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise.
+developer control - Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. 
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
