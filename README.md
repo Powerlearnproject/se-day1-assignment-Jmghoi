@@ -17,7 +17,7 @@ security - implement protection practice like authentication, authorization and 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-Mastering complexity
+Mastering complexity 
 
 Mastering process
 
