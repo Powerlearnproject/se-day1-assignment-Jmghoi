@@ -1,3 +1,9 @@
+# [Jael Mghoi]'s SE Day 1 Assignment
+## Task 1: GitHub Setup
+- [x] Repository created
+- [x] README updated
+## Task 2: [Task Name]
+
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
