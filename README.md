@@ -162,7 +162,7 @@ Acceptance tests - are formal tests that verify if a system satisfies business r
 - Whether the software meets the needs of the end-user and is ready for deployment.
 
 
-#Part 2: Introduction to AI and Prompt Engineering
+Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
